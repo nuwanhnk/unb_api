@@ -1,0 +1,21 @@
+{
+  "name": "api_excercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^1.4.0",
+    "chai": "^4.3.7",
+    "chai-http": "^4.4.0",
+    "mocha": "^10.2.0",
+    "prettier": "3.0.1"
+  },
+  "dependencies": {
+    "jsonpath": "^1.1.1"
+  }
+}
